@@ -1,0 +1,14 @@
+PODS:
+  - ITExtendedHitButton (0.0.1)
+
+DEPENDENCIES:
+  - ITExtendedHitButton (from `../`)
+
+EXTERNAL SOURCES:
+  ITExtendedHitButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ITExtendedHitButton: baa3556c60f734ffdfa93eee130a1029c6c3fef7
+
+COCOAPODS: 0.32.1
