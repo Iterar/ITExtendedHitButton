@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "André" => "andre”@iterar.co" }
-  s.source       = { :git => "https://github.com/andresousa/ITExtendedHitButton.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/iterar/ITExtendedHitButton.git", :tag => "0.0.1" }
   s.platform     = :ios
   s.source_files = 'ITExtendedHitButton'
   s.requires_arc = true  
